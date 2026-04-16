@@ -1,0 +1,3 @@
+Place your server map image here as "map.jpg"
+Recommended: 4096x4096 pixels
+Then update lib/mapConfig.js with your world bounds.
